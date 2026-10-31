@@ -1,0 +1,11 @@
+{
+  "name": "homotope",
+  "version": "1.0.0",
+  "description": "Vectorize images (PNG, JPEG) to SVG, PDF, EPS or DXF with Homotope, and check a DXF before cutting. Server jobs use your Homotope Pro quota, then credits.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "homotope": {
+      "httpUrl": "https://homotope.app/mcp"
+    }
+  }
+}
